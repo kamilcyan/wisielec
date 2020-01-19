@@ -1,0 +1,11 @@
+D:\Trening\wisielec\bin\Debug\netcoreapp3.1\wisielec.exe
+D:\Trening\wisielec\bin\Debug\netcoreapp3.1\wisielec.deps.json
+D:\Trening\wisielec\bin\Debug\netcoreapp3.1\wisielec.runtimeconfig.json
+D:\Trening\wisielec\bin\Debug\netcoreapp3.1\wisielec.runtimeconfig.dev.json
+D:\Trening\wisielec\bin\Debug\netcoreapp3.1\wisielec.dll
+D:\Trening\wisielec\bin\Debug\netcoreapp3.1\wisielec.pdb
+D:\Trening\wisielec\obj\Debug\netcoreapp3.1\wisielec.csprojAssemblyReference.cache
+D:\Trening\wisielec\obj\Debug\netcoreapp3.1\wisielec.AssemblyInfoInputs.cache
+D:\Trening\wisielec\obj\Debug\netcoreapp3.1\wisielec.AssemblyInfo.cs
+D:\Trening\wisielec\obj\Debug\netcoreapp3.1\wisielec.dll
+D:\Trening\wisielec\obj\Debug\netcoreapp3.1\wisielec.pdb
